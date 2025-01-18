@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="https://images.squarespace-cdn.com/content/v1/6670add926f2a64cd00fb0e7/58afd50e-f455-4fd6-9870-2c9da2c6a652/character+7.png"width="200" height="200" alt="hachiware">
+<img src="https://media1.tenor.com/m/kU3gYHILzF8AAAAC/chiikawa-anime.gifg"width="230" height="130" alt="hachiware">
 <br>
 </h4>
 <h5 align="center">
