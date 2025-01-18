@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="https://media1.tenor.com/m/kU3gYHILzF8AAAAC/chiikawa-anime.gifg"width="230" height="130" alt="hachiware">
+<img src="https://www.nautiljon.com/images/galerie/16/19/hayate_scapegoat_1351291.webp"width="230" height="150" alt="hachiware">
 <br>
 </h4>
 <h5 align="center">
