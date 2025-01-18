@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="https://www.nautiljon.com/images/galerie/16/19/hayate_scapegoat_1351291.webp"width="230" height="150" alt="hachiware">
+<img src="https://i.pinimg.com/736x/c4/92/2e/c4922e4bcb04355b656c8ff3178f4705.jpg"width="230" height="230" alt="hachiware">
 <br>
 </h4>
 <h5 align="center">
