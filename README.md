@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="https://c.tenor.com/McCfTurCpCAAAAAC/lee-dong-wook-strangers-from-hell.gif"width="300" height="160" alt="hachiware">
+<img src="https://i.scdn.co/image/ab67616d0000b273cd6d52bad5979929df0bfc14"width="250" height="250" alt="hachiware">
 <br>
 </h4>
 <h5 align="center">
