@@ -6,4 +6,4 @@
   Han or Ken. I'm on here sometimes.
 <p align> Usually offtab, replies to PMs. </p>
   
-<a href=https://rentry.co/gantz> Rentry </a>⠀<a href=https://steamcommunity.com/id/katocha/> Steam </a>⠀<a href=https://neospring.org/@gantz> Message </a>
+<a href=https://rentry.co/su> About </a>⠀<a href=https://steamcommunity.com/id/katocha/> Steam </a>⠀<a href=https://neospring.org/@gantz> Message </a>
