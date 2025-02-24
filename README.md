@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="https://swebtoon-phinf.pstatic.net/20191127_172/1574841417282rfoc2_JPEG/M_details+28129.jpg?type=crop540_540"width="230" height="230" alt="hachiware">
+<img src="https://e.snmc.io/i/600/s/5e19a0ece9f8a56f48e4d038410ba032/13028871/g-dragon-ubermensch-Cover-Art.jpg"width="230" height="230" alt="hachiware">
 <br>
 </h4>
 <h5 align="center">
