@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="https://i.scdn.co/image/ab67616d0000b2730e8f8f5edbbf6302c48a1d6d"width="230" height="230" alt="hachiware">
+<img src="https://i.scdn.co/image/ab67616d0000b273e1b8e368ceafe1117e846859"width="230" height="230" alt="hachiware">
 <br>
 </h4>
 <h5 align="center">
