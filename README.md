@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="https://cdn.mos.cms.futurecdn.net/JDWak2Q8BVGrSfwJxUenDT.jpg" height="210" alt="balkan brekky">
+<img src="https://cdn.mos.cms.futurecdn.net/JDWak2Q8BVGrSfwJxUenDT.jpg" height="180" alt="balkan brekky">
 <br>
 </h4>
 <h5 align="center">
