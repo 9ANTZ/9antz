@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="https://image-cdn.hypb.st/https%3A%2F%2Fbae.hypebeast.com%2Ffiles%2F2023%2F04%2Fbalming-tiger-hong-kong-yum-cha-interview-video-14.jpg?w=2000&cbr=1&q=90&fit=max" height="180" alt="balkan brekky">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6tIgicaSOtqi-3LRqdFEVZnFa_2l8Vj5XJA&s" height="180" alt="balkan brekky">
 <br>
 </h4>
 <h5 align="center">
