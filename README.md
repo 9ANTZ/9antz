@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="https://hypercritic.org/wp-content/uploads/2022/04/tumblr_e2124fc26e1c9f1738f7f3147604bd6d_08593424_1280.jpg" height="180" alt="balkan brekky">
+<img src="https://media1.tenor.com/m/LLkQ4zmKom0AAAAC/balming-tiger-big-butt-music-video.gif" height="180" alt="balkan brekky">
 <br>
 </h4>
 <h5 align="center">
