@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="https://pbs.twimg.com/media/GTThbmibMAAiIoQ.jpg" height="180" alt="balkan brekky">
+<img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=1200,height=675/catalog/crunchyroll/dbeaeb20a6a4a2b8ec351e3a7e326ce6.jpg" height="180" alt="balkan brekky">
 <br>
 </h4>
 <h5 align="center">
