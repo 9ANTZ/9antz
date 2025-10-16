@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="https://cdn-images.dzcdn.net/images/cover/ebea3e4d9ef33cba2978e35e969d57d0/1900x1900-000000-81-0-0.jpg" height="180" alt="balkan brekky">
+<img src="https://static.wikia.nocookie.net/aliceinborderland/images/8/83/Rei_playing_against_Arisu.jpg/revision/latest/scale-to-width-down/2560?cb=20250927181323" height="180" alt="balkan brekky">
 <br>
 </h4>
 <h5 align="center">
