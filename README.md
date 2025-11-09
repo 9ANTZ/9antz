@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="https://images.steamusercontent.com/ugc/1796636834011223/EA1716C191059201CC0E0F7B99F36E4E55553345/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" height="180" alt="balkan brekky">
+<img src="https://www.inazuma.jp/victory-road/assets/img/character/bg_unmei.png" height="180" alt="balkan brekky">
 <br>
 </h4>
 <h5 align="center">
