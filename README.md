@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="https://shogakukan-comic.jp/book-images/ogp/books/9784091432698.jpg" height="180" alt="mi bomba">
+<img src="https://static.wikia.nocookie.net/inazuma-eleven/images/b/ba/%28KS_%E3%80%8CDA%E3%80%8D%29_Desuta_puppet_%28SD%29.png/revision/latest?cb=20230915215811" height="180" alt="mi bomba">
 <br>
 </h4>
 <h5 align="center">
