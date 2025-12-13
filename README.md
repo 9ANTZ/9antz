@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="https://static.wikia.nocookie.net/inazuma-eleven/images/b/ba/%28KS_%E3%80%8CDA%E3%80%8D%29_Desuta_puppet_%28SD%29.png/revision/latest?cb=20230915215811" height="180" alt="mi bomba">
+<img src="https://media.discordapp.net/attachments/1284632801148141579/1448488801952464977/IMG_1486.png?ex=693d6c12&is=693c1a92&hm=e5252bde74d63c31e83d075a0e7cfac68c7cb241790e304fa6f39142fed8527e&=&format=webp&quality=lossless&width=360&height=780" height="180" alt="mi bomba">
 <br>
 </h4>
 <h5 align="center">
