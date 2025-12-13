@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="https://media.discordapp.net/attachments/1284632801148141579/1448488801952464977/IMG_1486.png?ex=693d6c12&is=693c1a92&hm=e5252bde74d63c31e83d075a0e7cfac68c7cb241790e304fa6f39142fed8527e&=&format=webp&quality=lossless&width=360&height=780" height="180" alt="mi bomba">
+<img src="https://i.pinimg.com/736x/19/d8/fe/19d8fe339f209b6c1ea69000d0bf3892.jpg" height="180" alt="mi bomba">
 <br>
 </h4>
 <h5 align="center">
