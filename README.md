@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="https://64.media.tumblr.com/e233f33f7de98bc63434403a4844131f/tumblr_pgnjw1bVxc1v1hotuo2_540.gif" height="180" alt="mi bomba">
+<img src="https://pbs.twimg.com/media/EgPFXVgXsAY384W.jpg" height="180" alt="mi bomba">
 <br>
 </h4>
 <h5 align="center">
