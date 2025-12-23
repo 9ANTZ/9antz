@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="https://in.pinterest.com/pin/imagen-de-anime-opening-and-anime-gif--118782508905366885/" height="180" alt="mi bomba">
+<img src="https://i.pinimg.com/originals/91/3b/85/913b8511b8dea506e092d558c2e6176e.gif" height="180" alt="mi bomba">
 <br>
 </h4>
 <h5 align="center">
